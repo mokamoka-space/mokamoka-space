@@ -5,12 +5,9 @@
 
 <h1 align="center">✨ Welcome to my space! ✨</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=ffb7b2&style=flat-square&label=Profile+Views" alt="watcher counter" />
-</p>
 
 <p align="center">
-  💕 Hi! I'm a developer who loves building cute things and writing clean code! 💕
+  💕 Hi! I'm a developer who loves building things and writing code! 💕
 </p>
 
 ---
