@@ -43,7 +43,7 @@
 
 ### 🐾 Typing Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mokamoka-space&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=mokamoka-space&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="400" />
 </p>
 
 <p align="center">
