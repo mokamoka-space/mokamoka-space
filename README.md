@@ -31,12 +31,12 @@ Passionate about building secure, user-friendly applications and continuously le
 
 #  About Me
 
-- 🎓 Graduate Student at the **University of the Ryukyus**
-- 🔒 Researching **document security** using **Canary Tokens**, **Docker**, and **Elasticsearch**
-- 💻 Interested in **Software Engineering**, **Frontend Development**, **Backend Development**, and **Cybersecurity**
-- 🌱 Currently learning **Swift**, **SQL**, **Docker**, and modern web technologies
-- 💼 Seeking opportunities in **Software Engineering**, **Frontend Development**, **Backend Development**, or **Cybersecurity**
-- 🇯🇵🇺🇸 Fluent in Japanese and English
+-  Graduate Student at the **University of the Ryukyus**
+-  Researching **document security** using **Canary Tokens**, **Docker**, and **Elasticsearch**
+-  Interested in **Software Engineering**, **Frontend Development**, **Backend Development**, and **Cybersecurity**
+-  Currently learning **Swift**, **SQL**, **Docker**, and modern web technologies
+-  Seeking opportunities in **Software Engineering**, **Frontend Development**, **Backend Development**, or **Cybersecurity**
+-  Fluent in Japanese and English
 
 ---
 
@@ -57,14 +57,14 @@ Passionate about building secure, user-friendly applications and continuously le
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma" />
 </p>
 
 ---
 
 
 
-## 🔒 Canary Token Automation
+## Canary Token Automation
 
 Research project focused on improving document security by automatically embedding Canary Tokens into Microsoft Office documents to detect unauthorized access.
 
@@ -75,7 +75,6 @@ Research project focused on improving document security by automatically embeddi
 - Elasticsearch
 - Kibana
 - Redis
-- Microsoft Office
 
 ---
 
@@ -89,14 +88,14 @@ A computer vision application that allows users to play a virtual piano using ha
 - OpenCV
 - MediaPipe
 
-> 🚧 Currently under development.
+>  Currently under development.
 
 ---
 
 # 📚 Currently Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=swift,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=swift" />
 </p>
 
 - Swift & iOS Development
@@ -107,7 +106,7 @@ A computer vision application that allows users to play a virtual piano using ha
 
 ---
 
-# 🔥 GitHub Streak
+#  GitHub Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mokamoka-space&theme=github-dark&hide_border=true" />
@@ -130,5 +129,5 @@ A computer vision application that allows users to play a virtual piano using ha
 ---
 
 <p align="center">
-⭐ Thanks for visiting my profile!
+ Thanks for visiting my profile!
 </p>
