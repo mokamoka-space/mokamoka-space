@@ -1,47 +1,134 @@
-<!-- CENTER ALIGNED HEADER WITH A CUTE MASCOT -->
+<!-- ==========================================
+              GitHub Profile README
+========================================== -->
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat Face" width="100" height="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="100" />
 </p>
 
-<h1 align="center">✨ Welcome to my space! ✨</h1>
+<h1 align="center">
+Hi, I'm Madoka Keye 👋
+</h1>
 
 <p align="center">
-  💕 Hi! I'm a developer who loves building things and writing code! 💕
+Computer Science Graduate Student • Software Developer • Cybersecurity
+</p>
+
+<p align="center">
+Passionate about building secure, user-friendly applications and continuously learning new technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/mokamoka-space">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/madoka-keye-3a04b4310">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-### 🌸 About Me
-- 🌱 **Learning:**  Python, Swift, HTML, CSS, JS, Node.js, etc!
+#  About Me
+
+- 🎓 Graduate Student at the **University of the Ryukyus**
+- 🔒 Researching **document security** using **Canary Tokens**, **Docker**, and **Elasticsearch**
+- 💻 Interested in **Software Engineering**, **Frontend Development**, **Backend Development**, and **Cybersecurity**
+- 🌱 Currently learning **Swift**, **SQL**, **Docker**, and modern web technologies
+- 💼 Seeking opportunities in **Software Engineering**, **Frontend Development**, **Backend Development**, or **Cybersecurity**
+- 🇯🇵🇺🇸 Fluent in Japanese and English
 
 ---
 
-### 🧸 My Tech Stack
-<p align="left">
-  <!-- Pastel Pink Python Badge -->
-  <img src="https://img.shields.io/badge/Python-FFB7B2?style=for-the-badge&logo=python&logoColor=white" />
-  <!-- Pastel Purple OpenCV Badge -->
-  <img src="https://img.shields.io/badge/OpenCV-E8AEFF?style=for-the-badge&logo=opencv&logoColor=white" />
-  <!-- Pastel Yellow Markdown Badge -->
-  <img src="https://img.shields.io/badge/Markdown-FFDAC1?style=for-the-badge&logo=markdown&logoColor=white" />
-  <!-- Pastel Blue Git Badge -->
-  <img src="https://img.shields.io/badge/Git-BFFCC6?style=for-the-badge&logo=git&logoColor=white" />
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,c,java" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,opencv" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
 </p>
 
 ---
 
-### 🐈 Currently Working On 
-- 🎹 **Virtual Piano App:** A computer vision project using **MediaPipe** to track your fingertips so you can play a musical instrument in mid-air! 
-- 🔒 *It's currently private while I build it, but I plan to publish and share it soon!* ✨
-- 🐾 `...coming soon!`
+
+
+## 🔒 Canary Token Automation
+
+Research project focused on improving document security by automatically embedding Canary Tokens into Microsoft Office documents to detect unauthorized access.
+
+**Technologies**
+
+- Python
+- Docker
+- Elasticsearch
+- Kibana
+- Redis
+- Microsoft Office
 
 ---
 
-### 🐾 Typing Stats
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=mokamoka-space&show_icons=true&theme=rose_pine&hide_border=true&bg_color=00000000" alt="GitHub Stats" width="400" />
+## 🎹 Virtual Piano
+
+A computer vision application that allows users to play a virtual piano using hand tracking.
+
+**Technologies**
+
+- Python
+- OpenCV
+- MediaPipe
+
+> 🚧 Currently under development.
+
+---
+
+# 📚 Currently Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=swift,mysql,sqlite" />
 </p>
 
+- Swift & iOS Development
+- SQL (MySQL & SQLite)
+- Docker
+- Cybersecurity
+- Software Design
+
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN6cnE4b3E0bDJndm10Z3B5amF0Y2Z5OHZ5Y2N0NXFpd3B0bDZidCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/du3J3cXyzhj75IOgvA/giphy.gif" width="120" />
+  <img src="https://streak-stats.demolab.com?user=mokamoka-space&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/mokamoka-space">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/madoka-keye-3a04b4310">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+⭐ Thanks for visiting my profile!
 </p>
